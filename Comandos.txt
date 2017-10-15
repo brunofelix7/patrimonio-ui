@@ -1,0 +1,9 @@
+ng new project_name                     - Cria um novo projeto angular
+ng serve --open                         - Roda a aplicação subindo um servidor e abre no navegador
+ng g c component-name --spec=false      - Cria um novo componente sem o arquivo de testes
+ng g s service-name --spec=false        - Cria um novo serviço
+npm install primeng --save              - Instala a biblioteca primeng como dependência no projeto
+npm install font-awesome --save         - Instala a biblioteca font-awesome como dependência no projeto
+
+https://angular.io/
+https://www.primefaces.org/primeng/#/
